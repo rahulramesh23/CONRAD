@@ -23,11 +23,7 @@ import ij.ImageJ;
  */
 
 public class SVDandFT {
-<<<<<<< HEAD
 
-=======
-	/*
->>>>>>> akmaierConrad/master
 	public static void invertSVD(SimpleMatrix A)
 	{
 		
